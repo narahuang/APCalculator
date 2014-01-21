@@ -4,6 +4,6 @@
     <string name="app_name">AP calculator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="ap_count">回復的AP為 </string>
+    <string name="ap_count">Chain Chronicle 從現在到晚上十一點回復的AP為 </string>
 
 </resources>
